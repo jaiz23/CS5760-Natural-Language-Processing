@@ -1,11 +1,10 @@
-# CS5760 Natural Language Processing
+
 ## Homework 2
 
 ### Student Information
 
-**Name:** Jai Venkat Rayapureddy
-**Course:** CS5760 Natural Language Processing  
-**Semester:** Fall 2026
+# Name:- Jai Venkat Rayapureddy
+# ID:-   700782045
 
 ---
 
@@ -606,6 +605,7 @@ P(S2) = 2/3 × 1 × 1/2 × 1 × 1/2
 
 ### Output
 
+```text
 Unigram Counts:
 <s> : 3
 I : 2
@@ -644,11 +644,13 @@ P(fun | is) = 1.0000
 P(</s> | fun) = 1.0000
 
 Sentence Probabilities:
+
 S1: <s> I love NLP </s>
 Probability = 0.3333
 
 S2: <s> I love deep learning </s>
 Probability = 0.1667
+```
 
 ### Which sentence does the model prefer?
 
